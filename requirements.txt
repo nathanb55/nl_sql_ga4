@@ -1,6 +1,6 @@
 openai
 google-auth
-langchain
+langchain>=0.0286
 streamlit
 google-auth-oauthlib>=1.0.0
 google-cloud-bigquery>=3.3.3

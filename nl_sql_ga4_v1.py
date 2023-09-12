@@ -6,7 +6,7 @@ import streamlit as st
 st.write("Test")
 
 # langchain
-#from langchain.chat_models import ChatOpenAI 
+from langchain.chat_models import ChatOpenAI 
 #from langchain.document_loaders import BigQueryLoader
 #from langchain.schema import HumanMessage
 #from langchain.prompts import PromptTemplate

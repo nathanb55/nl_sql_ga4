@@ -1,6 +1,7 @@
 #---------- 0 i. import libraries
 # general 
 import pandas as pd
+import streamlit as st
 
 st.write("Test")
 

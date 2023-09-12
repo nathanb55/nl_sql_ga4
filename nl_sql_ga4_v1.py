@@ -2,6 +2,8 @@
 # general 
 import pandas as pd
 
+st.write("Test")
+
 # langchain
 #from langchain.chat_models import ChatOpenAI 
 #from langchain.document_loaders import BigQueryLoader
